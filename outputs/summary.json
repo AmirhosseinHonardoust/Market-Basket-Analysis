@@ -1,0 +1,28 @@
+{
+  "n_orders": 43909,
+  "n_items": 19,
+  "algo": "apriori",
+  "min_support": 0.02,
+  "metric": "lift",
+  "min_threshold": 1.1,
+  "top_rule": [
+    {
+      "antecedents_str": "Keyboard, Laptop Bag, USB-C Hub",
+      "consequents_str": "Laptop, Mouse",
+      "support": 0.024254708601881163,
+      "confidence": 0.6844473007712082,
+      "lift": 5.094659523573992,
+      "leverage": 0.019493898092434975,
+      "conviction": 2.7432944426491392,
+      "antecedents": [
+        "Keyboard",
+        "Laptop Bag",
+        "USB-C Hub"
+      ],
+      "consequents": [
+        "Laptop",
+        "Mouse"
+      ]
+    }
+  ]
+}

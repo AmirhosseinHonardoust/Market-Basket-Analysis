@@ -1,0 +1,89 @@
+support,itemsets
+0.24348083536404838,frozenset({'Mouse'})
+0.20205424855952084,frozenset({'Desk'})
+0.200414493611788,frozenset({'Smartphone'})
+0.19977681113211415,frozenset({'Laptop'})
+0.19927577489808468,frozenset({'Monitor'})
+0.19847867179849232,frozenset({'Printer'})
+0.1746339019335444,frozenset({'Keyboard'})
+0.17137716641235282,frozenset({'Laptop Bag'})
+0.13434603384272018,"frozenset({'Mouse', 'Laptop'})"
+0.13427771071989797,"frozenset({'Keyboard', 'Laptop'})"
+0.13279737639208364,"frozenset({'Laptop', 'Laptop Bag'})"
+0.11883668496208066,frozenset({'Chair'})
+0.11863171559361406,frozenset({'Case'})
+0.11844952059942153,frozenset({'Desk Lamp'})
+0.1180623562367624,frozenset({'USB-C Hub'})
+0.11742467375708852,frozenset({'Printer Paper'})
+0.11726525313717005,frozenset({'HDMI Cable'})
+0.11655924753467399,frozenset({'Monitor Arm'})
+0.11637705254048145,frozenset({'Ink Cartridge'})
+0.11505613883258557,frozenset({'Wireless Charger'})
+0.1148967182126671,frozenset({'Screen Protector'})
+0.11243708579106788,frozenset({'External SSD'})
+0.09724657815026533,"frozenset({'Mouse', 'Keyboard'})"
+0.09476417135439204,"frozenset({'Mouse', 'Laptop Bag'})"
+0.09121136896763761,"frozenset({'Mouse', 'Laptop', 'Keyboard'})"
+0.09091530210207474,"frozenset({'Keyboard', 'Laptop Bag'})"
+0.08954883964563073,"frozenset({'Mouse', 'Laptop', 'Laptop Bag'})"
+0.08907057778587534,"frozenset({'Keyboard', 'Laptop', 'Laptop Bag'})"
+0.07848049374843426,"frozenset({'Desk Lamp', 'Desk'})"
+0.0783210731285158,"frozenset({'Mouse', 'Monitor'})"
+0.0783210731285158,"frozenset({'Laptop', 'USB-C Hub'})"
+0.0782527500056936,"frozenset({'Chair', 'Desk'})"
+0.07822997563141952,"frozenset({'Case', 'Smartphone'})"
+0.07782003689448633,"frozenset({'HDMI Cable', 'Monitor'})"
+0.07615750757247945,"frozenset({'Printer Paper', 'Printer'})"
+0.07595253820401285,"frozenset({'Screen Protector', 'Smartphone'})"
+0.07579311758409438,"frozenset({'Smartphone', 'Wireless Charger'})"
+0.07520098385296864,"frozenset({'Monitor Arm', 'Monitor'})"
+0.07435833200482816,"frozenset({'Ink Cartridge', 'Printer'})"
+0.07347013140813956,"frozenset({'Laptop', 'External SSD'})"
+0.06101254868022501,"frozenset({'Mouse', 'Laptop Bag', 'Keyboard'})"
+0.06073925618893621,"frozenset({'Mouse', 'Laptop', 'Keyboard', 'Laptop Bag'})"
+0.05832517251588513,"frozenset({'Mouse', 'USB-C Hub'})"
+0.05518230886606391,"frozenset({'Keyboard', 'USB-C Hub'})"
+0.05506843699469357,"frozenset({'Mouse', 'External SSD'})"
+0.05388416953244209,"frozenset({'Laptop Bag', 'USB-C Hub'})"
+0.05301874331002756,"frozenset({'Mouse', 'Laptop', 'USB-C Hub'})"
+0.052882097064383154,"frozenset({'Keyboard', 'Laptop', 'USB-C Hub'})"
+0.05233551208180555,"frozenset({'Keyboard', 'External SSD'})"
+0.051948347719146415,"frozenset({'Laptop', 'USB-C Hub', 'Laptop Bag'})"
+0.05039969026850987,"frozenset({'Laptop Bag', 'External SSD'})"
+0.05028581839713954,"frozenset({'Keyboard', 'Laptop', 'External SSD'})"
+0.049602587168917536,"frozenset({'Mouse', 'Laptop', 'External SSD'})"
+0.048623289075132664,"frozenset({'Laptop', 'External SSD', 'Laptop Bag'})"
+0.03889863126010613,"frozenset({'HDMI Cable', 'Mouse'})"
+0.038374820651802595,"frozenset({'Mouse', 'Monitor Arm'})"
+0.03623402947004031,"frozenset({'Mouse', 'Keyboard', 'USB-C Hub'})"
+0.03598351135302558,"frozenset({'Mouse', 'Laptop', 'Keyboard', 'USB-C Hub'})"
+0.03573299323601084,"frozenset({'Mouse', 'Laptop Bag', 'USB-C Hub'})"
+0.03543692637044797,"frozenset({'Keyboard', 'Laptop Bag', 'USB-C Hub'})"
+0.03543692637044797,"frozenset({'Mouse', 'Laptop', 'USB-C Hub', 'Laptop Bag'})"
+0.03536860324762577,"frozenset({'Keyboard', 'Laptop', 'USB-C Hub', 'Laptop Bag'})"
+0.0343893051538409,"frozenset({'Mouse', 'External SSD', 'Keyboard'})"
+0.0341160126625521,"frozenset({'Keyboard', 'Mouse', 'Laptop', 'External SSD'})"
+0.03318226331731536,"frozenset({'Keyboard', 'Laptop Bag', 'External SSD'})"
+0.03311394019449316,"frozenset({'Keyboard', 'Laptop', 'External SSD', 'Laptop Bag'})"
+0.03309116582021909,"frozenset({'Mouse', 'Laptop Bag', 'External SSD'})"
+0.032840647703204356,"frozenset({'Mouse', 'Laptop', 'External SSD', 'Laptop Bag'})"
+0.03206631897788608,"frozenset({'Chair', 'Desk Lamp'})"
+0.03149695962103441,"frozenset({'Case', 'Screen Protector'})"
+0.030950374638456808,"frozenset({'HDMI Cable', 'Monitor Arm'})"
+0.03079095401853834,"frozenset({'Printer Paper', 'Ink Cartridge'})"
+0.030745405269990207,"frozenset({'HDMI Cable', 'Mouse', 'Monitor'})"
+0.030677082147168005,"frozenset({'External SSD', 'USB-C Hub'})"
+0.030540435901523607,"frozenset({'Screen Protector', 'Wireless Charger'})"
+0.030449338404427338,"frozenset({'Chair', 'Desk Lamp', 'Desk'})"
+0.029879979047575667,"frozenset({'Mouse', 'Monitor Arm', 'Monitor'})"
+0.029766107176205335,"frozenset({'Case', 'Screen Protector', 'Smartphone'})"
+0.029675009679109066,"frozenset({'Case', 'Wireless Charger'})"
+0.028969004076612997,"frozenset({'HDMI Cable', 'Monitor Arm', 'Monitor'})"
+0.028536290965405726,"frozenset({'Laptop', 'External SSD', 'USB-C Hub'})"
+0.02851351659113166,"frozenset({'Screen Protector', 'Smartphone', 'Wireless Charger'})"
+0.028445193468309458,"frozenset({'Printer Paper', 'Ink Cartridge', 'Printer'})"
+0.027807510988635587,"frozenset({'Case', 'Smartphone', 'Wireless Charger'})"
+0.024254708601881163,"frozenset({'Mouse', 'Laptop Bag', 'Keyboard', 'USB-C Hub'})"
+0.024254708601881163,"frozenset({'Keyboard', 'Laptop', 'Laptop Bag', 'USB-C Hub', 'Mouse'})"
+0.022318886788585485,"frozenset({'Keyboard', 'Laptop', 'Laptop Bag', 'External SSD', 'Mouse'})"
+0.022318886788585485,"frozenset({'Keyboard', 'Mouse', 'Laptop Bag', 'External SSD'})"
