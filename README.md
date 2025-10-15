@@ -62,7 +62,7 @@ python src/market_basket.py   --input data/transactions.csv --outdir outputs   -
 ```
 
 **Outputs**
-- `outputs/item_support.csv`
+- `outputs/item_support.csv` 
 - `outputs/frequent_itemsets_<algo>.csv`
 - `outputs/association_rules_<algo>.csv`
 - `outputs/fig_top_items.png` 
