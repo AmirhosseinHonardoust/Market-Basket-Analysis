@@ -1,6 +1,6 @@
 # Market Basket Analysis
 
-Market basket analysis with Python. Generate synthetic retail transactions, mine frequent itemsets using **Apriori** or **FP‑Growth**, derive association rules, and produce clean outputs and charts.
+Market basket analysis with Python. Generate synthetic retail transactions, mine frequent itemsets using **Apriori** or **FP‑Growth**, derive association rules, and produce clean outputs and charts. 
 
 * * *
 ## Features
