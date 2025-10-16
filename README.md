@@ -4,7 +4,7 @@ Market basket analysis with Python. Generate synthetic retail transactions, mine
 
 * * *
 ## Features
-
+ 
 - Synthetic transactions generator with realistic co‑purchases (e.g., **Laptop → Mouse/Keyboard/Bag**)
 - Frequent itemsets via **Apriori** or **FP‑Growth** (mlxtend)
 - Association rules with **support, confidence, lift, leverage, conviction**
