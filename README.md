@@ -11,7 +11,7 @@ Market basket analysis with Python. Generate synthetic retail transactions, mine
 - Reproducible artifacts: CSVs for item supports, frequent itemsets, association rules 
 - Visual: Top‑N items by support (Matplotlib)
 - All outputs saved under `outputs/`
-
+ 
 * * *
 ## Project Structure
 
