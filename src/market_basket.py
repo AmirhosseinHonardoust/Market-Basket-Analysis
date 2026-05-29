@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Market Basket Analysis: frequent itemsets & association rules.
-
+ 
 Steps
 -----
 1) Load transactions CSV (one row per line-item)
